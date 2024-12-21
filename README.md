@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student specializing in C
 ## 📫 Contact Me
 
 - Email: [manavm712@gmail.com](mailto:manavm712@gmail.com)
-- GitHub: [github.com/riggedjoker](#) 
+
 
 ---
 
