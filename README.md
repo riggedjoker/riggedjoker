@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student specializing in C
 
 ## 📫 Contact Me
 
-- Email: [manav.maheshwari@unb.ca](mailto:manav.maheshwari@unb.ca)
+- Email: [manavm712@gmail.com](mailto:manavm712@gmail.com)
 - GitHub: [github.com/riggedjoker](#) _(github.com/riggedjoker)_
 
 ---
