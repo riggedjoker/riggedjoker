@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student specializing in C
 - **Cybersecurity Competitions**: Represented UNB in events like:
   - CyberSci Regionals 2024 (3rd Place)
   - Snowfort 2024, L3akCTF 2024, HackFest 2024
-- **IoT Experience**: Participated in discussions and visited the MasterCard IoT Lab at the Canadian Institute for Cybersecurity.
+
 
 ---
 
