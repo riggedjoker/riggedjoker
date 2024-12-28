@@ -1,6 +1,6 @@
 # Hi there, I'm Manav
 
-Welcome to my GitHub profile! I'm a **Computer Science student specializing in Cybersecurity** at the **University of New Brunswick**. Passionate about solving problems, building software, and exploring the dynamic world of technology, I aim to make a meaningful impact in the tech landscape.
+I'm a **Computer Science student specializing in Cybersecurity** at the **University of New Brunswick**. Passionate about solving problems, building software, and exploring the dynamic world of technology, I aim to make a meaningful impact in the tech landscape.
 
 ---
 
