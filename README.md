@@ -6,9 +6,9 @@ I'm a **Computer Science student specializing in Cybersecurity** at the **Univer
 
 ## 🚀 About Me
 
-- 🔐 **Cybersecurity Enthusiast**: Member of the UNB Cybersecurity Club, where I actively participate in ethical hacking competitions, IoT discussions, and lab visits.
-- 🛠️ **DevOps Experience**: Containerized microservices, wrote test cases, and improved onboarding during my internship at the Ministry of Energy and Minerals, Oman.
-- 💡 **Team Player**: I enjoy collaborating on innovative projects and learning from peers and mentors.
+Currently working with the Agriculture Agri-Food Canada as a Data Programmer. 
+Communications Director of the UNB Cybersecurity Club.
+I code and sleep for a living at the moment.
 
 ---
 
