@@ -6,8 +6,9 @@ I'm a **Computer Science student specializing in Cybersecurity** at the **Univer
 
 ## 🚀 About Me
 
-Currently working with the Agriculture Agri-Food Canada as a Data Programmer. 
-Communications Director of the UNB Cybersecurity Club.
+- Currently working with the Agriculture Agri-Food Canada as a Data Programmer. 
+- Communications Director of the UNB Cybersecurity Club. 
+
 I code and sleep for a living at the moment.
 
 ---
