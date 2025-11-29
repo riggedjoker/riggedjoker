@@ -4,7 +4,7 @@ I'm a **Computer Science student specializing in Cybersecurity** at the **Univer
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Currently working with the Agriculture Agri-Food Canada as a Data Programmer. 
 - Communications Director of the UNB Cybersecurity Club. 
@@ -13,7 +13,7 @@ I code and sleep for a living at the moment.
 
 ---
 
-## 💻 Skills & Tools
+## Skills & Tools
 
 ### **Programming Languages**
 <p>
@@ -53,7 +53,7 @@ I code and sleep for a living at the moment.
 
 ---
 
-## 🌟 Achievements
+## Achievements
 
 - **Cybersecurity Competitions**: Represented UNB in events like:
   - CyberSci Regionals 2024 (3rd Place)
@@ -61,7 +61,7 @@ I code and sleep for a living at the moment.
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - Email: [manavm712@gmail.com](mailto:manav_maheshwari@proton.me)
 
