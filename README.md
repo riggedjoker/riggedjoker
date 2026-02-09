@@ -63,6 +63,5 @@ I code and sleep for a living at the moment.
 
 ## Contact Me
 
-- Email: [manavm712@gmail.com](mailto:manav_maheshwari@proton.me)
-
+- Email: [manav_maheshwari@proton.me](mailto:manav_maheshwari@proton.me)
 ---
