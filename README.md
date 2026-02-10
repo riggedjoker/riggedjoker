@@ -44,8 +44,12 @@ I code and sleep for a living at the moment.
 
 ### **Cybersecurity Tools**
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" alt="Ghidra" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="BurpSuite" width="50" height="50"/>
+  Ghidra,
+  Burp Suite,
+  Binary Ninja,
+  Nmap,
+  Metasploit,
+  Evil Win-RM
 </p>
 
 
