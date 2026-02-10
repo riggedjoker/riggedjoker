@@ -48,8 +48,6 @@ I code and sleep for a living at the moment.
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" alt="BurpSuite" width="50" height="50"/>
 </p>
 
-### **Soft Skills**
-- Creative Thinking, Problem Solving, Time Management, Communication, Decision Making, Teamwork
 
 ---
 
