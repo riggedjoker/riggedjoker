@@ -54,6 +54,7 @@ I'm a **Computer Science student specializing in Cybersecurity** at the **Univer
 ## Achievements
 
 - **Cybersecurity Competitions**: Represented UNB in events like:
+  - @Hack2026 -> Placed 11th out of 32 teams (Regular track) (UN/Breakable)
   - CyberSci Regionals 2024 (3rd Place)
   - Snowfort 2024, L3akCTF 2024, HackFest 2024
 
